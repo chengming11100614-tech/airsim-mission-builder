@@ -4,6 +4,7 @@ node_modules/
 dist/
 coverage/
 .vite/
+*.tsbuildinfo
 __pycache__/
 *.py[cod]
 *.log
